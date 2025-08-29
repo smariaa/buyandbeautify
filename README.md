@@ -76,3 +76,8 @@ This can result in wasted time, money, and unsatisfactory experiences.
 
 The goal of **buy&beautify** is to enhance the makeup shopping experience, making it accessible, organized, and enjoyable for users across all levels of expertise.  
 
+## Demo Video
+
+![Video](https://github.com/smariaa/buyandbeautify/blob/main/Screen Recording.mp4)
+
+
