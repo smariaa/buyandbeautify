@@ -78,6 +78,6 @@ The goal of **buy&beautify** is to enhance the makeup shopping experience, makin
 
 ## Demo Video
 
-![Video](https://github.com/smariaa/buyandbeautify/blob/main/Screen Recording.mp4)
+![Video](https://github.com/smariaa/buyandbeautify/blob/main/ScreenRecording.mp4)
 
 
